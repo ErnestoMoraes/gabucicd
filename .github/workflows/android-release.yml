@@ -1,4 +1,8 @@
+teste
+
 name: Android Release
+
+
 
 # 1 => Controla quando o fluxo de trabalho será executado
 on:
