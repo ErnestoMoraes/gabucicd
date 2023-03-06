@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364816214494",
+    "project_id": "ernestoflutternapraica",
+    "storage_bucket": "ernestoflutternapraica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364816214494:android:e6df7a7fa89c3df4bc154f",
+        "android_client_info": {
+          "package_name": "br.com.ernestomoraes.gabucicd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364816214494-g2d9bpvs998nip0p7gpjsbgaimlad8ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6DN9YeDmTN2dB7FVvsQcRFkxv8pkrxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364816214494-g2d9bpvs998nip0p7gpjsbgaimlad8ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
